@@ -1,4 +1,4 @@
-# Simple Color Picker 🎨  
+# Color Code - Chrome Eklentisi 🎨  
 
 **Tarayıcınızda kolayca renk seçmenizi ve HEX kodunu kopyalamanızı sağlayan minimalist bir Chrome eklentisi.**  
 
